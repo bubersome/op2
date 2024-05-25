@@ -1,0 +1,21 @@
+446 units
+
+can3 
+can2 middle
+
+URL: mining address
+
+stratum+tcp://ss.antpool.com:3333 
+
+stratum+tcp://ss.antpool.com:443 
+
+stratum+tcp://ss.antpool.com:25
+
+SubAccount:
+s1911bx1
+
+Password:
+123
+
+Authorize Watchers Links:
+https://v3.antpool.com/observer?accessKey=hmnfhf45aqQ6uXfErfU7&coinType=BTC&observerUserId=s1911bx1

@@ -1,0 +1,20 @@
+459 units
+can 1 
+can 2 right
+
+URL: mining address
+
+stratum+tcp://sha256d.kupool.com:443
+
+stratum+tcp://sha256d.kupool.com:831
+
+stratum+tcp://sha256d.kupool.com:5678
+
+SubAccount:
+7758258
+
+Password:
+123
+
+Authorize Watchers Links:
+www.kucoin.com/mining-pool/observer?sign=e323da0f720d48ee89c2453accdea05c                                                                                                                             
