@@ -1,0 +1,1 @@
+Tundra Hybrid TRD Pro Truck CrewMax 4x4 power plug 110 Power In Bed
